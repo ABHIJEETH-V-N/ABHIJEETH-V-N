@@ -17,8 +17,8 @@
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TD
-markdown["`**MY REPOSITORY**
-a mindmap of all my github repositories`"]    
+markdown["`**REPOSITORIES**
+A mindmap of all my github repositories`"]    
 markdown -->A(html)
 markdown-->B(css)
 A-->re1[Official Website]
