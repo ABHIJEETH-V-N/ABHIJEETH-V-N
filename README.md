@@ -14,7 +14,7 @@ markdown["`**REPOSITORIES**
 A mindmap of all my github repositories`"]    
 markdown -->A(html)
 markdown-->B(css)
-A-->re1[Official Website]
+A-->re1[main Website]
 B-->re1
 ```
 
