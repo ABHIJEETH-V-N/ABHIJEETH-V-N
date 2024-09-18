@@ -19,6 +19,6 @@ B-->re1
 ```
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HYPER-VISUALS&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ABHIJEETH-V-N&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 </div>
