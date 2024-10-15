@@ -23,3 +23,4 @@ B-->re1
     <img src="https://github-readme-stats.vercel.app/api?username=ABHIJEETH-V-N&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 </div>
+<a href="https://app.daily.dev/abhijeethvn"><img src="https://api.daily.dev/devcards/v2/FTY8J5u3hkzFpgtvfFRZH.png?r=7fj&type=default" width="356" alt="abhijeeth v n's Dev Card"/></a>
