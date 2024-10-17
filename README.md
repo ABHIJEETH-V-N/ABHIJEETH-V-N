@@ -12,7 +12,8 @@
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TD
 markdown["`**REPOSITORIES**
-A mindmap for my github repositories`"]    
+A mindmap for my github repositories`"]
+markdown-->rm[this readme file] 
 markdown -->A(html)
 markdown-->B(css)
 A-->re1[main Website]
