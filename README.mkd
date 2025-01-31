@@ -17,10 +17,8 @@
 
 A glimpse into my GitHub projects:
 ```mermaid        
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart TD
-    subgraph " "
-        direction LR
+flowchart LR
+  
         markdown["**REPOSITORIES**"] --> A(HTML, CSS)
         A --> re1[Simple Website]
         markdown --> B(React.js)
@@ -29,7 +27,6 @@ flowchart TD
         D --> re3[Simple .NET Calculator]
         markdown --> E(Other)
         E --> ThisReadme[This README]
-    end
 ```
 <a  href="https://hypervisuals.pages.dev">Portfolio website</a><br>
 <a href="https://hyper-visuals.pages.dev">old website</a>
