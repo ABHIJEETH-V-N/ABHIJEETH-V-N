@@ -27,6 +27,8 @@ flowchart LR
         D --> re3[Simple .NET Calculator]
         markdown --> E(Other)
         E --> ThisReadme[This README]
+markdown-->F[tauri]
+F-->QUIX
 ```
 <a  href="https://hypervisuals.pages.dev">Portfolio website</a><br>
 <a href="https://hyper-visuals.pages.dev">old website</a>
