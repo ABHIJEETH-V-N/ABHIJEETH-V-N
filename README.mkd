@@ -1,18 +1,13 @@
+<a  href="https://hypervisuals.pages.dev">
+  
+![](1.svg)
 
+</a><br>
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0FFFFF&center=true&vCenter=true&width=435&lines=Hi+there...;I'm+ABHIJEETH✨;" alt="Typing SVG"/>
-  </h1>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there...;I'm+ABHIJEETH✨;" alt="Typing SVG"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHIJEETH-V-N&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<br>
-
+---
 ## 📦Repositories
 
 A glimpse into my GitHub projects:
@@ -30,8 +25,7 @@ flowchart LR
 markdown-->F[tauri]
 F-->QUIX
 ```
-<a  href="https://hypervisuals.pages.dev">Portfolio website</a><br>
-<a href="https://hyper-visuals.pages.dev">old website</a>
+
 
 
 
