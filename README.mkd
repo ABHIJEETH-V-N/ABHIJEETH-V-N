@@ -17,18 +17,19 @@
 # 📦Repositories
 A glimpse into my GitHub projects:
 ```mermaid        
-flowchart LR
-  
-        markdown["**REPOSITORIES**"] --> A(HTML, CSS)
-        A --> re1[Simple Website]
-        markdown --> B(React.js)
-        B --> re2[Portfolio Website]
-        markdown --> D(C#)
-        D --> re3[Simple .NET Calculator]
-        markdown --> E(Other)
-        E --> ThisReadme[This README]
+flowchart TD
+markdown["**REPOSITORIES**"] --> A(HTML, CSS,JS)
+A --> re1[Simple Website]
+markdown --> B(React.js)
+B --> re2[Portfolio Website]
+A-->re2
+markdown --> D(C#)
+D --> re3[Simple .NET Calculator]
+markdown --> E(Other)
+E --> ThisReadme[This README]
 markdown-->F[tauri]
 F-->QUIX
+A-->QUIX
 ```
 
 
