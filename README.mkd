@@ -1,12 +1,14 @@
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&center=true&vCenter=true&width=435&lines=Hi+there...;I'm+ABHIJEETH✨;" alt="Typing SVG"/>
+  </h1>
+</div>
 <a  href="https://hypervisuals.pages.dev">
   
 ![](1.svg)
 
 </a><br>
-<div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=6987d5&center=true&vCenter=true&width=435&lines=Hi+there...;I'm+ABHIJEETH✨;" alt="Typing SVG"/>
-</div>
-
 ---
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ABHIJEETH-V-N&show_icons=true&theme=dark" alt="GitHub Stats" /></div></td>
