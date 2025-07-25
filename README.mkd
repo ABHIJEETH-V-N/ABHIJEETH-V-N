@@ -30,6 +30,7 @@ E --> ThisReadme[This README]
 markdown-->F[tauri]
 F-->QUIX
 A-->QUIX
+B-->CLAIM
 ```
 </div>
 
