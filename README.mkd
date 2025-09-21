@@ -1,37 +1,20 @@
 
 <div align="center">
-  <h1>
-    <img height="100%" width="100%"src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&center=true&vCenter=true&width=435&lines=Hi+there...;I'm+ABHIJEETH✨;" alt="Typing SVG"/>
-  </h1>
 
 <a  href="https://hypervisuals.pages.dev">
-  
-![](1.svg)
 
-</a><br>
+![](abhijeethvn.svg)
+</a>
+<h2><a href="https://hypervisuals.pages.dev">check out my webstite</a></h2>
+
+</div>
+
+# Tools i use 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,git,kotlin,androidstudio,react,cloudflare,blender,unrealengine,figma,django,electron,github,gitlab,latex,md,neovim,netlify,nextjs,npm,obsidian,py,qt,tailwind,tauri,vercel,vite,vscode,windows)](https://skillicons.dev)
+
 ---
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ABHIJEETH-V-N&show_icons=true&theme=dark" alt="GitHub Stats" /></div></td>
 ---
 
-# 📦Repositories
-A glimpse into my GitHub projects:
-```mermaid        
-flowchart TD
-markdown["**REPOSITORIES**"] --> A(HTML, CSS,JS)
-A --> re1[Simple Website]
-markdown --> B(React.js)
-B --> re2[Portfolio Website]
-A-->re2
-markdown --> D(C#)
-D --> re3[Simple .NET Calculator]
-markdown --> E(Other)
-E --> ThisReadme[This README]
-markdown-->F[tauri]
-F-->QUIX
-A-->QUIX
-B-->CLAIM
-```
 </div>
-
-
