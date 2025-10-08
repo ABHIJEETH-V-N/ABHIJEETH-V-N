@@ -13,12 +13,13 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,git,kotlin,androidstudio,react,cloudflare,blender,unrealengine,figma,django,electron,github,gitlab,latex,md,neovim,netlify,nextjs,npm,obsidian,py,qt,tailwind,tauri,vercel,vite,mongodb)](https://skillicons.dev)
 
 ---
-<table>
-  <tr height="100%" width="100%">
-    <td><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=abhijeeth-v-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/></td>
-    <td><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeeth-v-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></td>
-  </tr>
-</table>
+
+
+<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=abhijeeth-v-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+    
+    
+
+>
 
 ---
 
