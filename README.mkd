@@ -17,9 +17,7 @@
 
 <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=abhijeeth-v-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
     
-    
-
->
+[![An image of @abhijeethvn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeethvn)](https://holopin.io/@abhijeethvn)
 
 ---
 
