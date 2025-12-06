@@ -9,7 +9,7 @@
 
 </div>
 
-# Tools i use 
+# The Stuff That I use  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,git,kotlin,androidstudio,react,cloudflare,blender,unrealengine,figma,django,electron,github,gitlab,latex,md,neovim,netlify,nextjs,npm,obsidian,py,qt,tailwind,tauri,vercel,vite,mongodb)](https://skillicons.dev)
 
 ---
