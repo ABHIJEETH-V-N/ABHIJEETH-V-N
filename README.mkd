@@ -16,11 +16,11 @@
 
 <table>
     <tr>
-        <th>Map</th>
+        <th>Worked on</th>
+     <th>Working on</th>
     </tr>
     <tr>
         <td>
-<h1>worked on</h1>
 <table>
     <tr>
         <th>name</th>
@@ -50,9 +50,6 @@
         </td>
         <td>
 
-
-
-# working on
 <table>
     <tr>
         <th>name</th>
