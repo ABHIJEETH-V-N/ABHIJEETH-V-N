@@ -1,24 +1,86 @@
-
 <div align="center">
+<pre>
+ /$$   /$$ /$$     /$$ /$$$$$$$  /$$$$$$$$ /$$$$$$$ 
+| $$  | $$|  $$   /$$/| $$__  $$| $$_____/| $$__  $$
+| $$  | $$ \  $$ /$$/ | $$  \ $$| $$      | $$  \ $$
+| $$$$$$$$  \  $$$$/  | $$$$$$$/| $$$$$   | $$$$$$$/
+| $$__  $$   \  $$/   | $$____/ | $$__/   | $$__  $$
+| $$  | $$    | $$    | $$      | $$      | $$  \ $$
+| $$  | $$    | $$    | $$      | $$$$$$$$| $$  | $$
+|__/  |__/    |__/    |__/      |________/|__/  |__/
+</pre>
+<b> ~ ABHIJEETH V N ~ </b>
+<br/>
 
-<a  href="https://hypervisuals.pages.dev">
-
-![](abhijeethvn.svg)
-</a>
-<h2><a href="https://hypervisuals.pages.dev">check out my webstite</a></h2>
-
-</div>
-
-# The Stuff That I use  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,git,kotlin,androidstudio,react,cloudflare,blender,unrealengine,figma,django,electron,github,gitlab,latex,md,neovim,netlify,nextjs,npm,obsidian,py,qt,tailwind,tauri,vercel,vite,mongodb)](https://skillicons.dev)
-
----
 
 
-<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=abhijeeth-v-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<table>
+    <tr>
+        <th>Map</th>
+    </tr>
+    <tr>
+        <td>
+# worked on
+<table>
+    <tr>
+        <th>name</th>
+        <th>link</th>
+    </tr>
+    <tr>
+        <td>Remzy</td>
+        <td>https://github.com/ABHIJEETH-V-N/REMZY</td>
+    </tr>
+    <tr>
+        <td>Essence</td>
+        <td>https://github.com/NEXBIT-X/ESSENCE-</td>
+    </tr>
+    <tr>
+        <td>G8</td>
+        <td>https://github.com/NEXBIT-X/gate8</td>
+    </tr>
+    <tr>
+        <td>Claim</td>
+        <td>https://github.com/NEXBIT-X/CLAIM</td>
+    </tr>
+    <tr>
+        <td>Quix</td>
+        <td>https://github.com/ABHIJEETH-V-N/quix</td>
+    </tr>
+</table>
+        </td>
+        <td>
+
+
+
+# working on
+<table>
+    <tr>
+        <th>name</th>
+        <th>link</th>
+    </tr>
+    <tr>
+        <td>Tracer</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>Knit</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>Dismantle</td>
+        <td>-</td>
+    </tr>
+</table>
+        </td>
+        </tr>
     
-[![An image of @abhijeethvn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeethvn)](https://holopin.io/@abhijeethvn)
+</table>
 
----
+<img src="hyper11.svg" height="10%" width="10%">
+<p>HYPER</p>
 
 </div>
+
+
+
+
