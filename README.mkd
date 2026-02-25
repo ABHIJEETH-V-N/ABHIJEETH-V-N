@@ -73,9 +73,6 @@
     
 </table>
 
-<img src="hyper11.svg" height="10%" width="10%">
-<p>HYPER</p>
-
 </div>
 
 
