@@ -16,8 +16,8 @@
 
 <table>
     <tr>
-        <th>Worked on</th>
-     <th>Working on</th>
+        <th>~++</th>
+     <th>~</th>
     </tr>
     <tr>
         <td>
