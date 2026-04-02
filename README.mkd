@@ -31,6 +31,10 @@
         <td>https://github.com/ABHIJEETH-V-N/REMZY</td>
     </tr>
     <tr>
+        <td>Tracer</td>
+        <td>https://github.com/ABHIJEETH-V-N/Tracer</td>
+    </tr>
+    <tr>
         <td>Essence</td>
         <td>https://github.com/NEXBIT-X/ESSENCE-</td>
     </tr>
@@ -54,10 +58,6 @@
     <tr>
         <th>name</th>
         <th>link</th>
-    </tr>
-    <tr>
-        <td>Tracer</td>
-        <td>-</td>
     </tr>
      <tr>
         <td>Knit</td>
